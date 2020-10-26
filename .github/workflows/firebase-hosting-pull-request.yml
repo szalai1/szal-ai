@@ -3,7 +3,8 @@
 
 name: Deploy to Firebase Hosting on PR
 'on': push 
-'branch': 'master'
+  branches:
+    - 'master'
 jobs:
   build_and_preview:
     runs-on: ubuntu-latest
