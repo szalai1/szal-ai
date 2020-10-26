@@ -5,15 +5,47 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Welcome to my digital garden 🌱
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first seed]]</span> to get started on your exploration.
-</p>
+I think calling the first post of a digital garden, seed is more than 
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+## Content
+I'm planning to store my findings, learnings and projects about anything that interests me.
+Mostly the followings:
+* How to live  
+  - Health: Mental, physical, diet 
+  - Money: How to save, invest 
+  - Time: Productivity 
+* Tech realated projects
+but _nothing original_. This is just a reshuffled version of existing ideas and knowledge.
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). Say hi! 👋
+## Format 
+
+I'm not planning to write essays. This site supposed to be a [[digital 
+garden]] with small interconnected notes. The relationship between the notes 
+should make them more valuable . I would like to grow it gradually, slowly 
+and consistently.
+
+I've been using [[Roam]] for more than half a year now and it totally change how I
+think about note taking and knowledge managment. This site supposed to be a distiled 
+form of my knowledge store in [[Roam]], so it will keep the it's structure. 
+
+## Why 
+
+I've always thought that I'm late to this blogging party, everything has been 
+written, there is no new content that can be created or be entertaining, the 
+blog market is full, and what I want to write is boring. Probably all of this 
+is true to a certain degree, but writting in public is **not _(just)_ about the reader.**
+I've been writing diaries/daily notes and personal wikies since 2007, but 
+never shared them. 
+
+Then is read [this](https://nesslabs.com/mind-garden) NessLabs
+post about digital g
+
+
+
+
+
 
 <style>
   .wrapper {

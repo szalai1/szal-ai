@@ -4,6 +4,10 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
-
-Feel free to tell the world about what you love! 😍
+**I'm:**
+- Peter Szalai
+- a human
+- a [humanist](https://en.wikipedia.org/wiki/Humanist_Manifesto)
+- married
+- living in Europe
+- working as an MLOps engineer
