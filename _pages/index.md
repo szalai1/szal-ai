@@ -2,53 +2,54 @@
 layout: page
 title: Home
 id: home
+date: 2020-11-01
 permalink: /
 ---
 
-# Welcome to my digital garden 🌱
+# 0 🌱 
 
-I think calling the first post of a digital garden, seed is more than 
+What is this? and why am I doing it?
 
-## Content
-I'm planning to store my findings, learnings and projects about anything that interests me.
-Mostly the followings:
-* How to live  
-  - Health: Mental, physical, diet 
-  - Money: How to save, invest 
-  - Time: Productivity 
-* Tech realated projects
-but _nothing original_. This is just a reshuffled version of existing ideas and knowledge.
+This is the first seed of my [digital garden](/digital_garden){: .internal-link}. A seed 
+that contains the blueprint of the tree (format) and the initial nutrition (content) to grow,
+ although it's _just_ a seed.  
 
-## Format 
+## 📓 Content
+I'm planning to store my findings, learnings, and projects about anything that interests me; 
+a reshuffled version of existing ideas and knowledge, so _nothing original_.
 
-I'm not planning to write essays. This site supposed to be a [[digital 
-garden]] with small interconnected notes. The relationship between the notes 
-should make them more valuable . I would like to grow it gradually, slowly 
-and consistently.
+Mostly the followings topics: 
+* 🥘 Diet
+* 📈 Self-tracking
+* 🧘‍♂️ Meditation
+* ♻ Habits
+* 💻 Tech
 
-I've been using [[Roam]] for more than half a year now and it totally change how I
-think about note taking and knowledge managment. This site supposed to be a distiled 
-form of my knowledge store in [[Roam]], so it will keep the it's structure. 
+## 📘 Format 
 
-## Why 
+I'm not planning to write essays, writing a post sounds intimidating and might stop me to produce anything 
+altogether. However, writing a couple of sort notes seems more approachable. Because of this, the format 
+of the site supposed to be a [digital garden](/digital_garden){: .internal-link} 
+that I would like to grow slowly, gradually, and consistently.
 
-I've always thought that I'm late to this blogging party, everything has been 
+## ❓ Why 
+
+I've always thought that I'm late to this party, everything has been 
 written, there is no new content that can be created or be entertaining, the 
-blog market is full, and what I want to write is boring. Probably all of this 
-is true to a certain degree, but writting in public is **not _(just)_ about the reader.**
-I've been writing diaries/daily notes and personal wikies since 2007, but 
+blog market is full, and what I want to write is boring anyways. Probably all of this 
+is true to a certain degree, but writing in public is **not _(just)_ about the reader.**
+I've been writing diaries/daily notes and personal wikis since 2007, but 
 never shared them. 
 
-Then is read [this](https://nesslabs.com/mind-garden) NessLabs
-post about digital g
+Recently I noticed a trend in the content bubble I consume, some of the creators started 
+encouraging their consumer to start their public content creation. 
+[\*](https://www.youtube.com/watch?v=L_qySH6L2Zw)
+[\*\*](https://nesslabs.com/mind-garden), 
+[\*\*\*](https://www.goodreads.com/book/show/3063393-pragmatic-thinking-and-learning)
+[\*\*\*\*](https://www.youtube.com/watch?v=AjoxkxM_I5g), ... 
+and now I'm convinced. 
 
-
-
-
-
-
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
+**What do I expect from this?**
+ - some healthy pressure to produce better quality notes
+ - constructive feedback from readers
+ - improvement in my thought process and writing
