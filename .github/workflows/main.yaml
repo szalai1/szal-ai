@@ -26,3 +26,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
           GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
+      - name: add CNAME
+        run: echo "szal.ai" > CNAME; git add CNAME ; git commit -am "add CNAME"; git push origin gh-pages
